@@ -14,6 +14,5 @@ Estrutura de desenvolvimento
 
 - pip intall pipx: instala o pipx 
 - pipx install poetry : utiliza o pipx para instalar o poetry 
-- pipx ensurepath - adiciona poetry as variaveis de ambiente
+- pipx ensutepath - adiciona poetry as variaveis de ambiente
 - poetry completions bash >> ~/.bash_completion -  para habilitar o auto complete do tab 
-- poetry completions zsh > ~zfunc/_poetry - para habilitar o auto complete do tab 
