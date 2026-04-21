@@ -176,7 +176,7 @@ llvmlite @ file:///C:/miniconda3/conda-bld/llvmlite_1760469323312/work
 lmdb @ file:///C:/b/abs_2decx3xz4y/croot/python-lmdb_1736541366547/work
 locket @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/locket_1729042822914/work
 lsprotocol @ file:///C:/miniconda3/conda-bld/lsprotocol_1759828550184/work/packages/python
-lxml==5.3.0
+lxml==6.1.0
 lz4 @ file:///C:/b/abs_8ep7mb2x8a/croot/lz4_1736369996037/work
 Mako @ file:///C:/miniconda3/conda-bld/mako_1758276768362/work
 Markdown @ file:///C:/b/abs_f9hbi7znfr/croot/markdown_1746114643651/work
