@@ -16,3 +16,7 @@ Estrutura de desenvolvimento
 - pipx install poetry : utiliza o pipx para instalar o poetry 
 - pipx ensutepath - adiciona poetry as variaveis de ambiente
 - poetry completions bash >> ~/.bash_completion -  para habilitar o auto complete do tab 
+- poetry --src new my project - cria o projeto inicial
+- poetry init 
+- poetry config virtualenvs.in-project true - 
+

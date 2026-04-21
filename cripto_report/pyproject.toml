@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cripto-report"
+version = "0.1.0"
+description = ""
+authors = ["B10l0g4 <vandyyh@gmail.com>"]
+readme = "README.md"
+packages = [{include = "cripto_report", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
